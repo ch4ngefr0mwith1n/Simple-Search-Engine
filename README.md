@@ -20,7 +20,7 @@ Result:
 
 Erick Harrington harrington@gmail.com
 
-    If the strategy is ANY, the program should print the lines containing at least one word from the query.
+If the strategy is ANY, the program should print the lines containing at least one word from the query.
 
 Query:
 
